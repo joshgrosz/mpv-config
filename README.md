@@ -1,2 +1,2 @@
 # mpv-config
-MPV config file/scripts/shaders I currently use
+MPV config files/scripts/shaders I currently use
